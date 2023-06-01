@@ -21,6 +21,9 @@ select
 	concat(sum(win), '-', sum(loss)) as "Win/Loss"
 from win_loss ;
 
+select *
+from christopher_carter cc ;
+
 
 
 select 
